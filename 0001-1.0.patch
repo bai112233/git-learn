@@ -1,0 +1,24 @@
+From 5b8bbcbb306f5bd1d795a084cc487e2fffb8e72c Mon Sep 17 00:00:00 2001
+From: bai112233 <2597696854@qq.com>
+Date: Thu, 21 Apr 2022 18:08:07 +0800
+Subject: [PATCH] =?UTF-8?q?=E8=81=94=E7=B3=BB=E4=BD=BF=E7=94=A8=E8=A1=A5?=
+ =?UTF-8?q?=E4=B8=811.0=E2=80=9C?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+---
+ a.batch | 1 +
+ 1 file changed, 1 insertion(+)
+ create mode 100644 a.batch
+
+diff --git a/a.batch b/a.batch
+new file mode 100644
+index 0000000..026a76a
+--- /dev/null
++++ b/a.batch
+@@ -0,0 +1 @@
++是一个补丁
+-- 
+2.25.1
+
